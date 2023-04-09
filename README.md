@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="./img/sofi-header.gif"/>
+</div>
 <h1 align="center">Hi 👋, I'm Sofía Islas Gutiérrez</h1>
 <h3 align="center">A passionate frontend developer from México, i love tecnogy, i am very curiose and i like to work in groups</h3>
 
